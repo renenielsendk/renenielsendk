@@ -29,4 +29,4 @@ I’m also involved in some exciting projects:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=renenielsendk&show_icons=true&theme=dark)
 
-Thanks again for stopping by!
+Check out these repositories 👇👇
