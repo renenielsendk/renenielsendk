@@ -4,9 +4,10 @@ Just a maker from Denmark that loves building stuff 🇩🇰🚀
 
 Currently, I’m building Denmark's biggest online course SaaS with over 4,000 students across 150 content creators. 🔥
 
-## 𝕏
+## 💬 Socials
 
-Follow me on [X](https://twitter.com/renenielsendk) for regular updates on what im doing!
+- Follow me on [X](https://twitter.com/renenielsendk) for regular updates on what im doing
+- Follow me on [ProductHunt](https://www.producthunt.com/@rene_nielsen_dk) to be notified about my launches.
 
 ## 🚀 Open source
 
