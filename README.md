@@ -7,7 +7,6 @@ Currently, I’m building Denmark's biggest online course SaaS with over 4,000 s
 ## 💬 Socials
 
 - Follow me on [X](https://twitter.com/renenielsendk) for regular updates on what im doing
-- Follow me on [ProductHunt](https://www.producthunt.com/@rene_nielsen_dk) to be notified about my launches.
 
 ## 🚀 Open source
 
